@@ -1,0 +1,195 @@
+1712
+flavor1 199
+flavor2 130
+flavor3 95
+flavor4 177
+flavor5 59
+flavor6 62
+flavor7 158
+flavor8 119
+flavor9 108
+flavor10 4
+flavor11 171
+flavor12 185
+flavor13 149
+flavor14 9
+flavor15 87
+
+176
+1 flavor13 1 flavor11 3 flavor4 1 flavor9 1 flavor12 1 flavor6 1
+2 flavor11 3 flavor13 1 flavor15 1
+3 flavor7 2 flavor10 1 flavor13 1 flavor15 1 flavor3 1 flavor9 1 flavor1 1 flavor6 1
+4 flavor7 2 flavor13 1 flavor15 1 flavor3 1 flavor5 1 flavor12 1
+5 flavor1 2 flavor7 1 flavor14 1 flavor15 1 flavor4 1 flavor6 1 flavor11 1
+6 flavor13 1 flavor11 1 flavor5 1 flavor1 1 flavor12 2 flavor4 2 flavor8 2 flavor3 1
+7 flavor13 2 flavor15 1 flavor9 1 flavor6 1 flavor2 2
+8 flavor4 1 flavor11 2 flavor13 1 flavor12 2 flavor2 1 flavor7 1 flavor1 1
+9 flavor13 2 flavor12 1 flavor15 1
+10 flavor13 2 flavor6 3 flavor1 2 flavor4 1 flavor3 4 flavor2 2 flavor12 1
+11 flavor4 3 flavor7 2 flavor13 1 flavor12 1 flavor1 2 flavor15 1
+12 flavor7 2 flavor4 1 flavor1 4 flavor12 1 flavor2 2 flavor6 2 flavor8 1 flavor11 3
+13 flavor10 1 flavor13 1 flavor4 2 flavor3 2 flavor9 1 flavor5 1 flavor8 1 flavor15 1
+14 flavor7 1 flavor13 1 flavor11 1 flavor1 4 flavor4 1 flavor9 1 flavor15 1 flavor5 1
+15 flavor2 1 flavor11 2 flavor13 1 flavor1 1 flavor4 1 flavor7 1 flavor12 1 flavor6 2 flavor9 1
+16 flavor7 2 flavor11 4 flavor4 1 flavor9 1 flavor5 1 flavor12 1
+17 flavor7 1 flavor8 1 flavor13 1 flavor2 1 flavor4 1 flavor12 2 flavor11 1 flavor9 1
+18 flavor4 2 flavor7 1 flavor13 1 flavor8 1 flavor12 1 flavor15 1
+19 flavor13 1 flavor7 2 flavor9 3 flavor1 1 flavor2 1 flavor4 1 flavor12 1 flavor11 1
+20 flavor1 4 flavor4 2 flavor13 1 flavor15 1 flavor8 1 flavor12 1
+21 flavor1 4 flavor8 2 flavor11 1 flavor13 1 flavor15 1 flavor2 2 flavor3 2
+22 flavor13 2 flavor15 1 flavor12 1
+23 flavor7 1 flavor11 1 flavor13 1 flavor8 1 flavor12 1 flavor9 3 flavor3 1
+24 flavor4 1 flavor10 1 flavor13 1 flavor8 1 flavor6 2 flavor1 2 flavor2 3 flavor15 1 flavor3 1
+25 flavor1 2 flavor4 1 flavor7 1 flavor8 2 flavor13 1 flavor9 1 flavor12 2 flavor6 1
+26 flavor13 2 flavor15 1 flavor12 1
+27 flavor9 2 flavor14 1 flavor4 4 flavor7 2 flavor2 3 flavor5 2 flavor6 1 flavor8 1 flavor1 1 flavor3 2
+28 flavor2 1 flavor11 2 flavor13 1 flavor8 1 flavor1 1 flavor4 1 flavor15 1
+29 flavor4 4 flavor11 3 flavor7 2 flavor12 2
+30 flavor7 1 flavor2 1 flavor8 1 flavor13 1 flavor1 4 flavor6 1 flavor11 1 flavor12 2 flavor3 1
+31 flavor4 1 flavor10 1 flavor13 1 flavor2 1 flavor3 1 flavor12 1 flavor15 1
+32 flavor13 1 flavor11 1 flavor12 1 flavor15 1
+33 flavor13 1 flavor11 3 flavor12 1 flavor9 2
+34 flavor13 1 flavor11 2 flavor8 2 flavor12 1 flavor1 2 flavor2 2 flavor9 1
+35 flavor7 1 flavor4 2 flavor13 1 flavor1 4 flavor12 1 flavor15 1 flavor3 1
+36 flavor7 2 flavor4 4 flavor14 1 flavor12 2 flavor11 1
+37 flavor13 2 flavor12 1 flavor15 1
+38 flavor13 2 flavor12 1 flavor15 1
+39 flavor5 3 flavor1 2 flavor8 1 flavor2 6 flavor7 3 flavor11 1 flavor4 1 flavor3 4 flavor12 1 flavor9 1
+40 flavor1 2 flavor4 1 flavor7 3 flavor9 1 flavor12 1 flavor15 1
+41 flavor4 1 flavor7 1 flavor13 1 flavor2 1 flavor6 1 flavor15 1 flavor12 1
+42 flavor7 2 flavor13 1 flavor6 1 flavor12 3
+43 flavor13 1 flavor11 3 flavor15 1
+44 flavor1 2 flavor13 1 flavor4 2 flavor2 1 flavor12 1 flavor15 1 flavor6 1
+45 flavor2 1 flavor8 2 flavor7 1 flavor13 1 flavor5 1 flavor1 1 flavor11 1 flavor12 2
+46 flavor2 2 flavor11 1 flavor13 1 flavor9 2 flavor1 2 flavor7 1 flavor8 2 flavor12 1
+47 flavor11 3 flavor13 1 flavor12 2
+48 flavor7 2 flavor13 1 flavor12 2 flavor4 2 flavor3 2 flavor9 1 flavor5 1 flavor8 1
+49 flavor4 6 flavor1 2 flavor12 1 flavor11 4 flavor2 1 flavor3 1
+50 flavor1 2 flavor13 1 flavor8 1 flavor7 1 flavor12 3 flavor2 1
+51 flavor13 1 flavor8 2 flavor11 1 flavor5 2 flavor4 1 flavor2 1 flavor3 1 flavor12 2
+52 flavor13 1 flavor4 2 flavor11 2 flavor7 1 flavor15 1
+53 flavor11 3 flavor13 1 flavor15 1
+54 flavor7 1 flavor1 2 flavor13 1 flavor12 1 flavor8 1 flavor9 3 flavor5 1 flavor2 3 flavor6 1
+55 flavor7 1 flavor1 2 flavor5 1 flavor13 1 flavor11 1 flavor2 3 flavor15 1 flavor3 2 flavor6 1
+56 flavor13 2 flavor15 1 flavor12 1
+57 flavor13 2 flavor12 3
+58 flavor4 1 flavor5 2 flavor1 3 flavor8 2 flavor13 1 flavor2 5 flavor3 2 flavor9 4
+59 flavor4 2 flavor7 1 flavor13 1 flavor8 1 flavor15 1 flavor12 1
+60 flavor12 1 flavor13 1 flavor7 3 flavor6 1 flavor2 1 flavor8 1 flavor9 1 flavor11 1 flavor3 1
+61 flavor7 1 flavor13 1 flavor2 1 flavor11 2 flavor15 1 flavor1 1 flavor6 1
+62 flavor4 5 flavor13 1 flavor9 3 flavor11 1 flavor12 1 flavor2 1 flavor1 1
+63 flavor4 3 flavor11 1 flavor7 4 flavor12 2 flavor5 1 flavor1 2 flavor3 2 flavor8 1
+64 flavor7 1 flavor13 1 flavor1 2 flavor2 1 flavor5 2 flavor12 1 flavor15 1
+65 flavor13 1 flavor12 1 flavor15 1 flavor11 1
+66 flavor13 1 flavor12 2 flavor11 2 flavor4 1 flavor7 1 flavor2 1 flavor1 1
+67 flavor7 1 flavor1 3 flavor11 1 flavor13 1 flavor15 1 flavor2 1 flavor4 2 flavor9 1
+68 flavor4 3 flavor7 1 flavor13 1 flavor12 3 flavor3 1 flavor2 1
+69 flavor2 1 flavor7 2 flavor13 1 flavor12 2 flavor9 1 flavor1 2 flavor3 1 flavor11 1
+70 flavor4 3 flavor13 1 flavor1 1 flavor11 2 flavor15 1 flavor3 1
+71 flavor4 2 flavor1 2 flavor3 1 flavor8 3 flavor11 1 flavor2 1 flavor7 1 flavor15 1 flavor6 1
+72 flavor7 1 flavor1 3 flavor8 1 flavor13 1 flavor2 2 flavor3 1 flavor5 1 flavor12 2 flavor11 1
+73 flavor7 3 flavor13 1 flavor3 1 flavor12 1 flavor15 1
+74 flavor1 2 flavor13 1 flavor4 1 flavor7 1 flavor6 1 flavor15 1 flavor12 1
+75 flavor2 2 flavor7 1 flavor8 2 flavor13 1 flavor6 1 flavor11 1 flavor15 1
+76 flavor4 2 flavor7 1 flavor13 1 flavor8 1 flavor15 1 flavor12 1
+77 flavor1 2 flavor7 1 flavor8 1 flavor11 4 flavor9 1 flavor4 1 flavor12 1
+78 flavor4 2 flavor7 1 flavor13 1 flavor15 1 flavor2 3 flavor9 1 flavor5 2 flavor1 1 flavor8 1
+79 flavor13 1 flavor12 1 flavor9 3 flavor11 1 flavor6 1 flavor4 3 flavor2 1
+80 flavor7 1 flavor4 1 flavor1 4 flavor11 3 flavor8 2 flavor12 1 flavor9 1 flavor2 2
+81 flavor4 2 flavor2 1 flavor6 1 flavor13 1 flavor11 2 flavor1 1 flavor15 1
+82 flavor13 1 flavor15 1 flavor1 6 flavor9 2 flavor4 1 flavor3 1 flavor5 1
+83 flavor8 3 flavor11 1 flavor13 1 flavor9 2 flavor12 1 flavor4 1 flavor5 1
+84 flavor4 2 flavor7 1 flavor13 1 flavor12 3 flavor6 1
+85 flavor13 1 flavor11 2 flavor7 1 flavor9 1 flavor4 2 flavor6 2 flavor12 1
+86 flavor1 2 flavor2 3 flavor7 1 flavor13 1 flavor8 1 flavor11 1 flavor9 2 flavor3 1 flavor12 1 flavor6 1
+87 flavor1 4 flavor7 1 flavor14 1 flavor9 1 flavor15 1 flavor4 1 flavor2 1 flavor3 1
+88 flavor13 2 flavor12 3
+89 flavor8 2 flavor11 1 flavor13 1 flavor2 2 flavor5 1 flavor9 1 flavor4 1 flavor1 2 flavor3 2 flavor12 1 flavor6 1
+90 flavor4 1 flavor13 1 flavor11 2 flavor8 1 flavor3 1 flavor2 1 flavor15 1
+91 flavor13 1 flavor11 1 flavor12 1 flavor15 1
+92 flavor13 1 flavor6 1 flavor12 2 flavor11 1 flavor9 1 flavor3 2
+93 flavor13 1 flavor11 1 flavor9 1 flavor15 1 flavor7 2 flavor2 2 flavor3 1
+94 flavor1 4 flavor13 1 flavor11 1 flavor6 1 flavor4 1 flavor2 3 flavor3 3 flavor15 1
+95 flavor1 2 flavor7 1 flavor13 1 flavor11 1 flavor4 1 flavor3 2 flavor9 1 flavor15 1
+96 flavor13 1 flavor7 1 flavor4 2 flavor12 1 flavor15 1 flavor6 1
+97 flavor9 3 flavor13 1 flavor7 2 flavor1 3 flavor5 1 flavor8 1 flavor3 1 flavor4 1 flavor12 1
+98 flavor1 4 flavor4 2 flavor7 2 flavor11 2 flavor12 2 flavor9 1
+99 flavor7 1 flavor13 1 flavor9 1 flavor6 1 flavor12 2 flavor11 1 flavor3 1
+100 flavor4 2 flavor13 1 flavor5 4 flavor11 1 flavor12 2 flavor6 1 flavor3 1
+101 flavor4 2 flavor7 2 flavor11 2 flavor9 1 flavor5 1 flavor12 2
+102 flavor13 2 flavor12 3
+103 flavor4 1 flavor1 2 flavor7 4 flavor2 2 flavor15 1 flavor9 2 flavor3 1 flavor5 1
+104 flavor4 1 flavor7 1 flavor13 1 flavor15 1 flavor2 2 flavor3 1 flavor1 2 flavor12 1
+105 flavor1 2 flavor4 1 flavor7 1 flavor13 1 flavor15 1 flavor8 2 flavor9 1 flavor5 1 flavor3 1
+106 flavor5 2 flavor4 3 flavor1 5 flavor11 2 flavor9 1 flavor8 4 flavor2 2 flavor3 1 flavor6 1
+107 flavor1 4 flavor7 1 flavor13 1 flavor5 1 flavor15 1 flavor4 1 flavor2 1 flavor12 1
+108 flavor13 1 flavor8 1 flavor11 2 flavor12 2 flavor1 2 flavor4 1
+109 flavor13 1 flavor7 3 flavor9 1 flavor2 1 flavor6 2 flavor11 1 flavor4 1 flavor12 1 flavor1 1
+110 flavor4 3 flavor13 1 flavor9 3 flavor5 1 flavor1 2 flavor3 3 flavor8 1 flavor12 1
+111 flavor8 4 flavor11 3 flavor7 1 flavor12 1 flavor4 1 flavor2 2
+112 flavor1 2 flavor7 1 flavor8 3 flavor14 1 flavor15 1 flavor4 1
+113 flavor8 1 flavor4 2 flavor3 3 flavor11 2 flavor13 1 flavor1 2 flavor6 1 flavor2 1 flavor12 1
+114 flavor13 1 flavor11 1 flavor12 1 flavor15 1
+115 flavor4 1 flavor1 2 flavor13 1 flavor7 1 flavor8 1 flavor11 1 flavor9 1 flavor15 1
+116 flavor7 1 flavor13 1 flavor3 1 flavor12 1 flavor8 1 flavor15 1
+117 flavor1 2 flavor7 1 flavor8 2 flavor13 1 flavor11 1 flavor6 1 flavor15 1
+118 flavor1 2 flavor13 1 flavor7 1 flavor8 1 flavor15 1 flavor9 2 flavor4 1
+119 flavor4 4 flavor7 3 flavor8 4 flavor9 1 flavor11 1 flavor12 1
+120 flavor7 1 flavor13 1 flavor1 2 flavor8 1 flavor4 1 flavor12 1 flavor15 1
+121 flavor12 1 flavor8 1 flavor11 3 flavor5 3 flavor7 1 flavor1 2 flavor4 2 flavor6 2
+122 flavor4 2 flavor7 1 flavor14 1 flavor8 1 flavor11 1 flavor15 1
+123 flavor4 1 flavor7 1 flavor13 1 flavor2 1 flavor12 3 flavor8 1
+124 flavor7 1 flavor2 4 flavor11 3 flavor8 3 flavor9 2 flavor1 2 flavor6 1
+125 flavor1 2 flavor8 1 flavor11 5 flavor5 1 flavor12 1
+126 flavor5 1 flavor13 2 flavor15 1 flavor9 1 flavor6 1
+127 flavor4 1 flavor7 2 flavor13 1 flavor15 1 flavor5 1 flavor2 1 flavor12 1
+128 flavor13 1 flavor12 3 flavor11 1
+129 flavor13 1 flavor12 3 flavor11 1
+130 flavor1 2 flavor7 1 flavor8 1 flavor11 1 flavor12 2 flavor3 1 flavor2 3 flavor9 1 flavor6 1
+131 flavor7 1 flavor13 1 flavor11 2 flavor12 2 flavor1 1 flavor3 1 flavor2 2
+132 flavor4 2 flavor13 1 flavor8 1 flavor3 1 flavor11 1 flavor12 2 flavor9 1
+133 flavor1 1 flavor13 2 flavor6 1 flavor3 1 flavor15 1 flavor9 1
+134 flavor13 1 flavor12 2 flavor11 2 flavor8 1 flavor7 1
+135 flavor4 1 flavor7 1 flavor5 1 flavor12 2 flavor11 2 flavor8 2 flavor1 2 flavor3 1
+136 flavor1 2 flavor2 1 flavor13 1 flavor8 1 flavor3 1 flavor12 1 flavor15 1
+137 flavor13 1 flavor11 1 flavor12 3
+138 flavor4 1 flavor7 2 flavor12 1 flavor11 3 flavor2 2 flavor8 2 flavor3 2 flavor6 1
+139 flavor4 2 flavor13 1 flavor15 1 flavor1 1 flavor6 1 flavor5 2 flavor2 3 flavor3 2 flavor7 1 flavor8 1
+140 flavor7 2 flavor14 1 flavor9 1 flavor15 1 flavor6 1
+141 flavor13 2 flavor8 1 flavor9 1 flavor12 2
+142 flavor13 1 flavor7 2 flavor15 1 flavor8 1 flavor12 1
+143 flavor7 6 flavor1 2 flavor12 3 flavor2 1 flavor3 1
+144 flavor7 1 flavor1 2 flavor13 1 flavor12 3 flavor4 1 flavor6 1
+145 flavor13 1 flavor7 2 flavor11 1 flavor15 1 flavor6 2 flavor8 1
+146 flavor13 1 flavor1 3 flavor9 4 flavor2 1 flavor11 2 flavor4 1 flavor5 1
+147 flavor14 1 flavor3 2 flavor1 3 flavor12 1 flavor4 4 flavor8 1 flavor5 1 flavor7 1 flavor2 1 flavor11 1
+148 flavor1 2 flavor2 1 flavor4 4 flavor7 1 flavor11 2 flavor9 1 flavor15 1
+149 flavor13 2 flavor15 1 flavor12 1
+150 flavor3 2 flavor7 1 flavor13 1 flavor11 2 flavor5 1 flavor9 2 flavor12 1
+151 flavor7 2 flavor13 1 flavor8 1 flavor9 2 flavor15 1
+152 flavor13 1 flavor11 3 flavor15 1
+153 flavor4 2 flavor7 1 flavor13 1 flavor3 1 flavor12 1 flavor15 1 flavor5 1
+154 flavor13 2 flavor15 1 flavor6 2 flavor9 1
+155 flavor13 1 flavor12 2 flavor11 3
+156 flavor8 2 flavor13 1 flavor15 1 flavor7 2 flavor3 2 flavor4 2 flavor6 1
+157 flavor4 3 flavor13 1 flavor9 2 flavor15 1 flavor8 1 flavor2 1
+158 flavor13 1 flavor8 2 flavor11 2 flavor12 2
+159 flavor13 1 flavor15 1 flavor8 2 flavor4 3 flavor5 1 flavor7 1 flavor3 1 flavor2 1 flavor6 1
+160 flavor1 4 flavor14 1 flavor9 2 flavor11 1 flavor6 1 flavor12 1 flavor4 1 flavor2 1
+161 flavor8 2 flavor13 1 flavor1 1 flavor2 1 flavor4 1 flavor11 1 flavor7 1 flavor15 1
+162 flavor7 3 flavor13 1 flavor4 1 flavor12 2 flavor2 2 flavor8 1 flavor9 1
+163 flavor1 2 flavor7 1 flavor2 2 flavor4 1 flavor11 1 flavor15 1 flavor6 1 flavor3 1 flavor8 1 flavor9 1
+164 flavor7 1 flavor13 1 flavor12 3 flavor5 1 flavor8 1
+165 flavor1 2 flavor4 1 flavor13 1 flavor11 1 flavor12 2 flavor5 1 flavor3 1 flavor2 2 flavor9 1
+166 flavor7 2 flavor13 1 flavor11 1 flavor9 3 flavor12 1 flavor8 1
+167 flavor13 1 flavor11 3 flavor12 1 flavor2 1 flavor9 1 flavor3 2 flavor1 1
+168 flavor1 2 flavor11 1 flavor9 2 flavor4 3 flavor8 4 flavor7 2 flavor12 1
+169 flavor4 1 flavor7 3 flavor5 1 flavor15 1 flavor8 1 flavor12 1 flavor2 1 flavor3 1
+170 flavor4 2 flavor7 1 flavor11 1 flavor12 3 flavor8 1
+171 flavor1 4 flavor7 2 flavor15 1 flavor11 1 flavor5 1 flavor2 2 flavor9 1 flavor3 3
+172 flavor1 2 flavor11 2 flavor2 3 flavor15 1 flavor5 2 flavor9 1
+173 flavor1 2 flavor4 1 flavor11 1 flavor8 1 flavor3 1 flavor12 1 flavor15 1
+174 flavor7 1 flavor11 1 flavor1 2 flavor4 1 flavor12 1 flavor6 1 flavor15 1
+175 flavor15 1 flavor12 2
+176 flavor2 1 flavor12 2 flavor9 1
+

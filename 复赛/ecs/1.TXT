@@ -1,0 +1,30 @@
+// 从最后要一天往前进行滑窗，以待预测天数N为窗口，
+  for (int i = 0; i < test.predictNum; i++)
+  {
+    auto beginIter = trainFlavorX[i].histData.begin();
+    auto endIter = trainFlavorX[i].histData.begin() + test.deltaDate;
+    // auto endIter = trainFlavorX[i].histData.end();            // 最后一天指针
+    // auto beginIter = trainFlavorX[i].histData.end() - test.deltaDate; // 窗口的第一天指针
+
+    std::vector<float> originalY;
+    while (endIter <= trainFlavorX[i].histData.end())
+    {
+      double tmp = std::accumulate(beginIter, endIter, 0.0);
+      originalY.push_back(tmp);
+
+      endIter = endIter + 1;
+      beginIter = beginIter + 1;
+      // endIter = beginIter - 1;
+      // beginIter = endIter - test.deltaDate;
+    }
+    // 待预测天数
+    for (int k = 0; k < test.deltaDate; k++)
+    {
+      float meanPred = std::accumulate(originalY.begin(), originalY.end(), 0.0) / originalY.size();
+      float val = meanPred * 0.8 + originalY.back() * 0.6; //
+
+      originalY.push_back((int)(val));
+    }
+
+    reqFlavor.push_back((int)(originalY.back()));
+  }

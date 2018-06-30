@@ -1,0 +1,15 @@
+sdk-gcc
+
+## 2018/3/10
+
+11点11分，将样例的输出直接输出。
+
+## 2018/3/12
+
+今天已经过去3天了。昨天将输入输出调试成功，顺利的提交了一个baseline_0.155。
+
+今天，感觉有很多需要优化的地方，比如在读取数据方面，之前先将char * info的数据转化为string s类型，然后将string类型赋值给stringstream ss(s)，再将ss输入流读入到相应变量。但是发现这种方式，通过clock_t start,finish测试，速度要比sscanf函数慢一倍。于是将sscanf作为读取数据的函数。sscanf使用方式可以参考[http://www.cplusplus.com/reference/cstdio/sscanf/](http://www.cplusplus.com/reference/cstdio/sscanf/)这篇文章。
+
+同样，文件中涉及到大量的时间处理格式，比如输入文件中的需要预测天数之间的间隔。需要将字符串的时间转换为整数，可以使用time_t类型来处理，详细的转换过程，可以参考[c/c++日期时间处理与字符串string转换](http://www.cnblogs.com/renjiashuo/p/6913668.html)这篇博客。
+
+

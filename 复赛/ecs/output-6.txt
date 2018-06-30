@@ -1,0 +1,18 @@
+317
+flavor1 75
+flavor2 70
+flavor4 23
+flavor5 49
+flavor8 100
+
+High-Performance 6
+High-Performance-1 flavor1 16 flavor2 14 flavor4 6 flavor5 6 flavor8 14
+High-Performance-2 flavor1 12 flavor2 8 flavor4 4 flavor5 9 flavor8 15
+High-Performance-3 flavor1 10 flavor2 8 flavor4 5 flavor5 11 flavor8 14
+High-Performance-4 flavor1 12 flavor2 9 flavor4 3 flavor5 9 flavor8 15
+High-Performance-5 flavor1 6 flavor2 13 flavor4 4 flavor5 8 flavor8 15
+High-Performance-6 flavor1 14 flavor2 13 flavor5 2 flavor8 18
+
+General 1
+General-1 flavor1 5 flavor2 5 flavor4 1 flavor5 4 flavor8 9
+
